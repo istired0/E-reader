@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 7h | 2 |
+| Week 4 | Tier 1 | 7.5h | 2 |
 
 ## Contents
 
@@ -36,7 +36,7 @@ After much research and work, I have decided to use the Seeed XIAO 4.26 display 
 
 ### 2026-11-01: I finally figured out how to code the thing! I'm going to start by writing the code for a to-do list since the e-reader is way beyond my level at this point. It is a good way to start familiarizing my
 
-**2.5h**
+**3h**
 
 I finally figured out how to code the thing! I'm going to start by writing the code for a to-do list since the e-reader is way beyond my level at this point. It is a good way to start familiarizing myself with the language.
 
