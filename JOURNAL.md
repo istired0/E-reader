@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 7.5h | 2 |
+| Week 4 | Tier 1 | 8h | 2 |
 
 ## Contents
 
 1. [2026-10-31: After much research and work, I have decided to use the Seeed XIAO 4.26 display with its controller board, which has an ESP32, and use the open book project as a starting point for my work. I am going](#2026-10-31-after-much-research-and-work-i-have-decided-to-us)
-2. [2026-11-01: I finally figured out how to code the thing! I'm going to start by writing the code for a to-do list since the e-reader is way beyond my level at this point. It is a good way to start familiarizing my](#2026-11-01-i-finally-figured-out-how-to-code-the-thing-im-go)
+2. [2026-11-01: ![screenshot_2026-11-01-184233](https://halflife.hackclub-assets.com/sessions/1KXLVB8rP6pAw5De3PjOnIS89eGAVRih/9527b85416b3c007e4ad15d811f38a84df73559018a0ffbef6d385fd8df9a434.png)](#2026-11-01-screenshot2026-11-01-184233httpshalflifehackclub-)
 
 ## Design
 
@@ -34,9 +34,11 @@ After much research and work, I have decided to use the Seeed XIAO 4.26 display 
 
 ![screenshot_2026-10-31-152613](https://halflife.hackclub-assets.com/sessions/1KXLVB8rP6pAw5De3PjOnIS89eGAVRih/eedf65c5ed9efba4105b5340b78a38255d8a84d9392f1b64458bbe28decf1d49.png)
 
-### 2026-11-01: I finally figured out how to code the thing! I'm going to start by writing the code for a to-do list since the e-reader is way beyond my level at this point. It is a good way to start familiarizing my
+### 2026-11-01: ![screenshot_2026-11-01-184233](https://halflife.hackclub-assets.com/sessions/1KXLVB8rP6pAw5De3PjOnIS89eGAVRih/9527b85416b3c007e4ad15d811f38a84df73559018a0ffbef6d385fd8df9a434.png)
 
-**3h**
+**3.5h**
+
+![screenshot_2026-11-01-184233](https://halflife.hackclub-assets.com/sessions/1KXLVB8rP6pAw5De3PjOnIS89eGAVRih/9527b85416b3c007e4ad15d811f38a84df73559018a0ffbef6d385fd8df9a434.png)
 
 I finally figured out how to code the thing! I'm going to start by writing the code for a to-do list since the e-reader is way beyond my level at this point. It is a good way to start familiarizing myself with the language.
 
@@ -45,3 +47,5 @@ I finally figured out how to code the thing! I'm going to start by writing the c
 ![screenshot_2026-11-01-184225](https://halflife.hackclub-assets.com/sessions/1KXLVB8rP6pAw5De3PjOnIS89eGAVRih/fe665f5cb466bc713b2d254a701435931492ea7a70b6a406d61541c82df1627e.png)
 
 ![screenshot_2026-10-31-152638](https://halflife.hackclub-assets.com/sessions/1KXLVB8rP6pAw5De3PjOnIS89eGAVRih/77ce48f7a82f5bb93f81b3018d570363ef12ac1e31e9d6a780cc8939b8855730.png)
+
+![screenshot_2026-10-31-152627](https://halflife.hackclub-assets.com/sessions/1KXLVB8rP6pAw5De3PjOnIS89eGAVRih/45976a9d2fb053db24c9298101cff3ebde316241e63bfa5518fad9014a56100d.png)
